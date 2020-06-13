@@ -4,9 +4,10 @@ dependencies:
         - appmode
         - python
         - numpy
-        - pip
-        - pip:
-                - pandas
-                - holoviews
-                - bokeh
+        - scipy 
+        - pandas
+        - holoviews
+        - bokeh
+        - matplotlib
+        - jupyter
                 
