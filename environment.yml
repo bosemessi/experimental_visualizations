@@ -10,4 +10,5 @@ dependencies:
         - bokeh
         - matplotlib
         - jupyter
+        - panel
                 
