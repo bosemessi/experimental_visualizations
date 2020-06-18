@@ -11,4 +11,5 @@ dependencies:
         - matplotlib
         - jupyter
         - panel
+        - jupyter_contrib_nbextensions
                 
